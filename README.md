@@ -1,9 +1,1 @@
-langchain
-langchain-community
-langgraph
-langchain-openai
-python-dotenv
-httpx
-streamlit
-pypdf
-Pillow
+streamlit run app.py
