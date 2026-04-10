@@ -7,3 +7,4 @@ httpx
 streamlit
 pypdf
 Pillow
+graph_system
